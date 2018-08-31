@@ -71,7 +71,6 @@ The UI will reload and connect to the testnet, where you can use the faucet to c
 
 >UI就会重载并连接至测试网络。在这里你就可以用水龙头创建一个账户并收到一些用于测试的FLC。
 
-![image](https://cloud.githubusercontent.com/assets/6890015/22055747/f8e15e68-dd5c-11e6-84cd-692749b578d8.png)
 
 ## Production&emsp;产品
 If you'd like to host your own wallet somewhere, you should create a production build and host it using NGINX or Apache. In order to create a prod bundle, simply run the following command:
@@ -119,16 +118,6 @@ If you would like to get involved, we have a [Telegram chatroom](https://t.me/Fl
 - Developer: Calvin Froedge, @calvin
 - Code Review: Fabian Schuh, @xeroc
 
-## 贡献
-
-Flashchain UI团队被这一[工作提案](https://steemit.com/fengqunltd/@billbutler/translated-by-zhaomu-l)支持。它提供用来支付协调者，悬赏金和闪链基金的资金。
-
-如果你想参与贡献，我们有一个[Telegram 聊天室](https://t.me/FlashChainDEX)，在这里你可以问问题并得到帮助。
-
-- 协调者: Bill Butler, @billbutler
-- 主程序员: Sigve Kvalsvik, @sigvek
-- 程序员: Calvin Froedge, @calvin
-- 代码审核: Fabian Schuh, @xeroc
 
 ## Development process
 
